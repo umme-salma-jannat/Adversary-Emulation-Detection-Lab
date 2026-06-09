@@ -1,2 +1,2 @@
-# Adversary-Emulation-Detection-Lab
-A hands-on lab simulating MITRE ATT&amp;CK techniques with Atomic Red Team and analyzing Sysmon telemetry inside Splunk SIEM
+📄 Adversary Emulation & Detection Lab v1  
+[Download PDF](Adversary%20Emulation%20%26%20Detection%20Lab%20v1.pdf)
